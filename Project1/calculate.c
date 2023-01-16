@@ -90,4 +90,5 @@ int main()
         }
     }
     printf("再见！\n");
+    return;
 }
